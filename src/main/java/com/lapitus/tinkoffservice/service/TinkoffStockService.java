@@ -4,6 +4,7 @@ import com.lapitus.tinkoffservice.dto.*;
 import com.lapitus.tinkoffservice.exception.StockNotFoundException;
 import com.lapitus.tinkoffservice.model.Currency;
 import com.lapitus.tinkoffservice.model.Stock;
+import com.lapitus.tinkoffservice.model.StockPrice;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import lombok.var;

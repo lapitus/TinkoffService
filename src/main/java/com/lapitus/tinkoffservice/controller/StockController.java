@@ -2,7 +2,7 @@ package com.lapitus.tinkoffservice.controller;
 
 import com.lapitus.tinkoffservice.dto.*;
 import com.lapitus.tinkoffservice.model.Stock;
-import com.lapitus.tinkoffservice.service.StockService;
+import com.lapitus.tinkoffservice.model.StockPrice;
 import com.lapitus.tinkoffservice.service.TinkoffStockService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

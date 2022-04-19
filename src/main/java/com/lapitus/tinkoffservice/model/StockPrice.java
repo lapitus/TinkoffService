@@ -1,4 +1,4 @@
-package com.lapitus.tinkoffservice.dto;
+package com.lapitus.tinkoffservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
